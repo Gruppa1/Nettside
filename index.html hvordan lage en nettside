@@ -1,11 +1,6 @@
 <!DOCKTYPE html>
 <html> 
 <head>
-	<style>
-body {
-background-color: #33cccc
-}
-</style>
 
 	<title> Hvordan publisere en Nettside på github! </title>
 	<!--Utf-8 gjør at vi kan bruke æ, ø og å-->

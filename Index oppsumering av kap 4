@@ -1,0 +1,72 @@
+<!DOCKTYPE html>
+<html> 
+<head>
+	<style>
+body {
+background-color: #44cccc
+}
+</style>
+
+	<title> Info om Kapittel 4! </title>
+	<!--Utf-8 gjør at vi kan bruke æ, ø og å-->
+	<meta charset="utf-8>       
+</head>
+<body="background-colur: black; color: white"> 
+<div>	
+<h1> Her skal du få info av kapittel!</h1>
+  </div>					     
+					     
+<div>
+  <h3> Oppsumering av kapittel 4 i Brettboka<h3>
+ 
+<br><br><br>
+
+<table>
+  <th>  </th>
+  <th>  </th>
+  <th> </th>
+  </tr>
+					  
+<div>					     
+<h3> .</h3>
+<p> .</p>			     
+<p> .</p>
+<img src="">
+  </div> 
+							       
+<br><br><br>	
+							       
+<div> 	
+<h4> </h4>						       
+<p>.<p/>	
+ <img src="" whidth="1000" height="500" alt= bilde 4">		
+  </div>
+	
+<br><br><br>
+	
+<div> 
+<h4> Hva du må gjøre?<h4/>	
+<p> Nå som du har byttet til gh-pages skal du gå inn Settings og deretter gå in på Branches. Her skal du shifte over til gh-pages</p>	
+<img src="" whidth="1000" heigth="500" alt=bilde 7">	
+</div>	
+	
+<div>
+<h4> </h4>							      
+<p> .</p>
+<img src="" whidth="1000" height="500" alt=bilde 5">	
+  </div>
+	
+<br><br><br>
+	
+<div>
+  <h4> </h4>	
+<p>.</p>	
+<img src="" whidth="1000" height="500" alt="html koding">
+  </div>
+	
+<br><br><br>
+	<h4></h3> 
+	<p> </p>
+<a href="https://brettboka.no/user/publications/979" target"_blank">Kilde<a/>					     
+</body>
+</html>

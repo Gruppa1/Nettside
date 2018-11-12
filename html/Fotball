@@ -2,8 +2,21 @@
 <html> 
 <head>
 	<style>
-body {
-background-color: #55cccc
+		body {
+background-color: #ccffcc
+}
+table {
+border-collapse: collapse; /* fjerner mellomrom mellom rader/kolonner , prøv uten denne også */
+}
+th {
+background-color: #8cbe05; /* grønn */
+border: 1px solid #000000; /* svart */
+padding: 5px; /* avstand mellom bokskant og innhold */
+}
+td {
+background-color: #e7f1cc; /* lys grønn */
+border: 1px solid #000000; /* svart */
+padding: 5px; /* avstand mellom bokskant og innhold */
 }
 </style>
 
@@ -22,7 +35,7 @@ background-color: #55cccc
 <p> Det går ut på få ballen i motstanderens mål</p>
          
 <br><br><br>
- <img src="https://raw.githubusercontent.com/Gruppa1/Nettside/gh-pages/nr%201%20til%20oppsumering%20av%20kap%204.PNG" whidth="1000" height="500" alt= bilde 4">		
+ <img src="" whidth="1000" height="500" alt= ">		
  <div> 	
 <h4> </h4>						       
 <p><p/>
@@ -33,7 +46,7 @@ background-color: #55cccc
 <ol> </ol> 
   </div>
 					  
-<img src="https://raw.githubusercontent.com/Gruppa1/Nettside/gh-pages/bilde/kap%204%20bilde%203.PNG">
+<img src="">
   </div> 
 
 <h2 </h2>
@@ -51,6 +64,7 @@ background-color: #55cccc
 <div> 
 <h4><h4/>
 <ol>	
+	
 <li>   </li>	
 <li> </li>
 <li> </li>
@@ -59,7 +73,7 @@ background-color: #55cccc
 <li></li>		
  </ol>	
  ol li {
- background-color: #8cbe05; /* grønn bakgrunnsfarge */
+ background-color: #8cbe05; 
  padding: 5px; /* avstand mellom bokskant og innhold */
  margin: 2px; /* avstand mellom bokser */
  width: 200px; /* boksenes bredde */

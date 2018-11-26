@@ -18,3 +18,24 @@ background-color: #e7f1cc;
 border: 1px solid #000000; 
 padding: 5px; 
 }
+ </style>
+ 
+ 
+ 
+ 
+ 
+ 
+ <title> Fotball! </title>
+	<!--Utf-8 gjør at vi kan bruke æ, ø og å-->
+	<meta charset="utf-8>       
+</head>
+<body="background-colur: black; color: white"> 
+<div>	
+<h1> Her finner du litt om fotball!</h1>
+  </div>					     
+					     
+<div>
+<h3> Hva er fotball</h3> 
+<p>Fotball er en populer sport som dreie seg om å få ballen in i motstanderns mål</p>
+<p> Det går ut på få ballen i motstanderens mål</p>
+ </div>

@@ -8,6 +8,13 @@ margin: 5xp auto;
 body. {
 background-color: #ffffcc
 }
+topptekst {
+heigt: 120px;
+background-color #909090
+margin: 5px;
+padding: 5px;
+}
+
 
 tabell.{
 border-collapse: collapse; /* fjerner mellomrom mellom rader/kolonner , prøv uten denne også */
@@ -24,7 +31,7 @@ padding: 5px;
 }
 .meny {
       flex-basis 200px;
-      background-color: #FF0000;
+      background-color: #FF00FF;
       padding: 5px 20px 5px; /*5px betyr topp, 20px betyr 			venstre og høyre, 5px betyr bunn*/
       margin: 5px;
       order: 2;

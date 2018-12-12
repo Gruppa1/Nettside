@@ -1,7 +1,15 @@
-body {
+box. {
+background-color: #329632;
+width: 70%;
+height: 60px;
+margin: 5xp auto;
+}
+
+body. {
 background-color: #ffffcc
 }
-table {
+
+tabell.{
 border-collapse: collapse; /* fjerner mellomrom mellom rader/kolonner , prøv uten denne også */
 }
 th {

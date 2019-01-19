@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <title> min første PHP netiside </title>
+  <!-- UTF-8 gjør at vi kn bruke æ, ø og å -->
+  <meta charset="UTF-8">
+  </head>
+  <body>
+  
+  <h1> min første nettside i PHP! </h1>
+  
+  <?php
+  // her gir jeg en variabelen et tall $tall. Verdien er 23
+ $tall = 23;
+ echo "<p> Nå er tallet $tall. </p>";
+ 
+ // her endres verdien av tallet til 42.
+ $tall =42;
+ echo "<p> nå er tallet $tall. </p>";
+ ?>
+ <p> Fordi denne teksten ikke er omsluttet av php-taggene , kan jeg skrive som om jeg jobber i et vanlig HTML-dokument.</p>
+ 
+ <?php 
+ echo "<p> nå er vi tilbake til php, da bruker jeg echo for å skrive html koder. </p>
+ echi "<p> vriabelen jeg skrev tidliger i dokumente finnes fremdeles, tallet er $tall. </p>
+ ?>
+ </body>
+ </html>

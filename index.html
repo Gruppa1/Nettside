@@ -1,82 +1,35 @@
-<!DOCTYPE html>
-<html> 
+<!doctype html>
+<html>
 <head>
-<style>.boks {
-background-color: #329632;
-width: 70%;
-height: 60px;
-margin: 5xp auto;
-}
-
-body {
-background-color: #ffffcc
-}
-topptekst {
-heigt: 120px;
-background-color #909090
-margin: 5px;
-padding: 5px;
-}
-
-
-tabell.{
-border-collapse: collapse; /* fjerner mellomrom mellom rader/kolonner , prøv uten denne også */
-}
-th {
-background-color: #8cbe05; 
-border: 1px solid #000000;
-padding: 5px;
-}
-td {
-background-color: #e7f1cc; 
-border: 1px solid #000000; 
-padding: 5px; 
-}
-.meny {
-      flex-basis 200px;
-      background-color: #FF00FF;
-      padding: 5px 20px 5px; /*5px betyr topp, 20px betyr 			venstre og høyre, 5px betyr bunn*/
-      margin: 5px;
-      order: 2;
-	color: #48FFFF; /* Lyse blå farge (cyan)*/
-	font-size: 30px;
-	text-decoration: none;
-
-
-<link rel="stylesheet" href="Css/divklasser.css"> (denne fungerte ikke så, skriver css in på html)
-
-	<title> Fotball! </title>
-	<!--Utf-8 gjør at vi kan bruke æ, ø og å-->
-	<meta charset="utf-8> 
-</style
-
-</head>
-	<div> class="boks"
-  </div>
+  <title> min første PHP netiside </title>
+  <!-- UTF-8 gjør at vi kn bruke æ, ø og å -->
+  <meta charset="UTF-8">
+  </head>
+  <body>
   
-  <div> class="topptekst"
-<h1>Her finner du litt om fotball!</h1>
-		
-  </div>					     
-<li> <a href="https://gruppa1.github.io/hvordan-lage-en-nettside/";> Hvordan fungere en Fotballkamp </a> </li>
-		<p>&nbsp;</p>
-		<li> <a href="https://gruppa1.github.io/eksempel-p-github/";> Fotball i utlandet  </a> </li>
-		<p>&nbsp;</p>
-		<li> <a href="https://gruppa1.github.io/test/";> Vår relesjon til fotball </a> </li>
-		<p>&nbsp;</p>				     
-				     
+  <h1> min første nettside i PHP! </h1>
+  
+  <?php
+  // her gir jeg en variabelen et tall $tall. Verdien er 23
+ $tall = 23;
+ echo "<p> Nå er tallet $tall. </p>";
+ 
+ // her endres verdien av tallet til 42.
+ $tall =42;
+ echo "<p> nå er tallet $tall. </p>";
+ ?>
+ <p> Fordi denne teksten ikke er omsluttet av php-taggene , kan jeg skrive som om jeg jobber i et vanlig HTML-dokument.</p>
+ 
+ <?php 
+ echo "<p> nå er vi tilbake til php, da bruker jeg echo for å skrive html koder. </p>
+ echi "<p> vriabelen jeg skrev tidliger i dokumente finnes fremdeles, tallet er $tall. </p>
+ ?>
+ </body>
+ </html>
 
-<br><br>
-<div> 
-<h3> Her kan du se filstrukturen</h3>
-<img src="https://raw.githubusercontent.com/Gruppa1/Nettside/gh-pages/bilde/fillstruktur.PNG">
 
-  </div>
 
-<div> 
-<h2> Kilder</h2>
-<a href="https://brettboka.no/user/publications/979" target"_blank">brettboka<a/>
-<a href="https://www.youtube.com/channel/UC8y4FaO31BhPznkV6CQG-sQ" target"_blank">youtube<a/>				     
-</body>
-</html>
+
+
+
 	
